@@ -8,7 +8,6 @@ Java Developer with a deep passion for coding and problem-solving. Eager to cont
 * 🌍  I'm based in Saint Petersburg
 * 💻 **Courses**: Hexlet Programming School, Java Developer
 * 💼 Experience: I have a few educational projects that you can explore in my GitHub repositories
-* ✉️  You can contact me at [serebvl23@gmail.com](mailto:serebvl23@gmail.com)
 
 ### Skills
 
