@@ -1,26 +1,21 @@
 Hi 👋 My name is Vladimir Serebrennikov, Welcome to my GitHub Profile
 =======================================
 
-Java Developer
+QA Automation Engineer
 --------------
 
-Java Developer with a deep passion for coding and problem-solving. Eager to contribute my skills to innovative projects. Continuing to enhance my knowledge in the field of information technology. Actively seeking opportunities to apply my knowledge in a professional setting.
-* 🌍  I'm based in Saint Petersburg
-* 💻 **Courses**: Hexlet Programming School, Java Developer
-* 💼 Experience: I have a few educational projects that you can explore in my GitHub repositories
+QA Engineer with a deep passion for testing and problem-solving. Eager to contribute my skills to innovative projects. Continuing to enhance my knowledge in the field of information technology. Actively seeking opportunities to apply my knowledge in a professional setting.
 
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,idea,gradle,git,github,postgres,hibernate,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=java,selenium,jenkins,spring,idea,gradle,maven,git,postgres,hibernate,docker,linux" />
   </a>
 </p>
 
 ### Links
 
 <p align="left"> <a href="https://www.github.com/Vladimir-Serebrennikov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-* [My CV (russian)](https://cv.hexlet.io/ru/resumes/3214)
 
 ### ☎️ Contacts:
 
